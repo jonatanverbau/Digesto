@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Table of contents
 
-You can use the [editor on GitHub](https://github.com/jonatanverbau/Digesto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonatanverbau/Digesto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Page 1](README.md)
+  * [DIGESTO](page-1/digesto.md)
+  * [Table of contents](page-1/table-of-contents.md)
+  * [CONVENIO OIT Nº 190 (2019) | Sobre la eliminación de la violencia y el acoso en el mundo del trabajo](page-1/convenio-oit-no-190-2019-or-sobre-la-eliminacion-de-la-violencia-y-el-acoso-en-el-mundo-del-trabajo.md)
+  * [CONVENIOS OIT](page-1/convenios-oit.md)
+  * [CONVENIO OIT Nº 135 (1971) | Sobre los representantes de los Trabajadores](page-1/convenio-oit-no-135-1971-or-sobre-los-representantes-de-los-trabajadores.md)
+  * [CONVENIO OIT Nº 151 (1978) | Sobre las relaciones de trabajo en la Administración Pública](page-1/convenio-oit-no-151-1978-or-sobre-las-relaciones-de-trabajo-en-la-administracion-publica.md)
+  * [CONVENIO OIT Nº 154 (1981) | Sobre la negociación colectiva](page-1/convenio-oit-no-154-1981-or-sobre-la-negociacion-colectiva.md)
+  * [CONVENIO OIT Nº 87 (1948) | Libertad Sindical y Protección del Derecho de Sindicación](page-1/convenio-oit-no-87-1948-or-libertad-sindical-y-proteccion-del-derecho-de-sindicacion.md)
+  * [DECRETO N° 08/19 | Protocolo de actuación para prevención y atención frente a situaciones de violenc](page-1/decreto-n-08-19-or-protocolo-de-actuacion-para-prevencion-y-atencion-frente-a-situaciones-de-violenc.md)
+  * [DECRETO N° 201/95 | Régimen laboral personal de Servicio de Catastro e Información Territorial](page-1/decreto-n-201-95-or-regimen-laboral-personal-de-servicio-de-catastro-e-informacion-territorial.md)
+  * [ANEXO C | Causas de ineptitud absoluta](page-1/anexo-c-or-causas-de-ineptitud-absoluta.md)
+  * [ANEXO D | Causas de aptitud relativa](page-1/anexo-d-or-causas-de-aptitud-relativa.md)
+  * [DECRETO Nº 170/09 | ANEXO A - Régimen de Comisiones de Servicio](page-1/decreto-no-170-09-or-anexo-a-regimen-de-comisiones-de-servicio.md)
+  * [ANEXO A | Estatuto y escalafón para el personal del Servicio de Catastro e Información Territorial](page-1/anexo-a-or-estatuto-y-escalafon-para-el-personal-del-servicio-de-catastro-e-informacion-territorial.md)
+  * [ANEXO B | Régimen de franquicias, licencias y justificaciones del S.C.I.T.](page-1/anexo-b-or-regimen-de-franquicias-licencias-y-justificaciones-del-s.c.i.t..md)
+  * [DECRETO N° 4463/17 | Dirección Provincial de Autoseguro y Riesgos de Trabajo (DIPART)](page-1/decreto-n-4463-17-or-direccion-provincial-de-autoseguro-y-riesgos-de-trabajo-dipart.md)
+  * [DECRETO N° 4447/92 | Régimen laboral de la Administración Provincial de Impuestos](page-1/decreto-n-4447-92-or-regimen-laboral-de-la-administracion-provincial-de-impuestos.md)
+  * [DECRETO N° 0170/09 | ANEXO C - Régimen de Promoción de los Inspectores de la A.P.I.](page-1/decreto-n-0170-09-or-anexo-c-regimen-de-promocion-de-los-inspectores-de-la-a.p.i..md)
+  * [DECRETO Nº 0170/09 | ANEXO A - Régimen de Comisiones de Servicio](page-1/decreto-no-0170-09-or-anexo-a-regimen-de-comisiones-de-servicio.md)
+  * [ANEXO A | Estatuto Escalafón para el personal de la Administración Provincial de Impuestos](page-1/anexo-a-or-estatuto-escalafon-para-el-personal-de-la-administracion-provincial-de-impuestos.md)
